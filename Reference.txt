@@ -1,0 +1,7 @@
+https://www.slingacademy.com/article/working-with-buffers-and-readers-using-the-bufio-package-in-go/
+
+https://www.codingexplorations.com/blog/how-to-use-buffer-in-go-a-comprehensive-guide
+
+https://www.bing.com/videos/riverview/relatedvideo?q=making+an+buffer+over+flow+payload+golang&mid=172FCBE2FBBA8452E5BC172FCBE2FBBA8452E5BC&churl=https%3a%2f%2fwww.youtube.com%2fchannel%2fUCcXNb9BRVo9VAzOwaTJLaxA&FORM=VIRE
+
+https://medium.com/@emusbeny/mastering-bufio-in-go-the-art-of-buffered-i-o-17cae584ee4b
